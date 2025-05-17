@@ -1,5 +1,9 @@
-# DevOps_Assign4
+## DevOps_Assign4
 
+#Dockerhub repository
+evantz/devops
+
+#Verification images 
 ![image](https://github.com/user-attachments/assets/e91c466e-3f15-421c-b8a6-5517f9be419d)
 
 
